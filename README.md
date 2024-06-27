@@ -75,3 +75,9 @@ Bias and Fairness and making sure the recommendation system is fair to all appli
 * Bias in Data: Historical data used to train the recommendation system may contain biases. For example, certain demographic groups might be underrepresented or have less favorable loan terms historically, which could lead to biased recommendations.
 * Fairness in Recommendations: the loan recommendations should be fair regardless of the user’s background, including socioeconomic status, race, gender, and academic field.
 * Transparency and Accountability: its key to explain how recommendations are made. Students need to know why certain loans are being recommended to them, especially if they perceive the recommendations as unfavorable.
+
+##### Sources
+- Web
+- Starter Code
+- Tutor sessions
+- Google Colab 
